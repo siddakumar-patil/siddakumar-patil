@@ -5,9 +5,9 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddakumar-patil&label=Profile%20views&color=0e75b6&style=flat" alt="siddakumar-patil" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot, Vue.js, React.js projects**
+- 🔭 I’m currently working on **Spring Boot, Microservices, Vue.js, React.js projects**
 
-- 🌱 I’m currently learning **React, Vue.js, Microservices, REST API**
+- 🌱 I’m currently learning **Spring Boot, Microservices, React**
 
 - 👯 I’m looking to collaborate on **React-based projects**
 
