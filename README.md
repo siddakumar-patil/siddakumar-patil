@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spring Boot, Microservices, Vue.js projects**
 
-- 🌱 I’m currently learning **Spring Boot, Microservices, React**
+- 🌱 I’m currently learning **Spring Boot, Microservices, Vue.JS**
 
 - 👯 I’m looking to collaborate on **Anything that solves real-world problems**
 
